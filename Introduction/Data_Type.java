@@ -17,5 +17,6 @@ public class Data_Type {
         System.out.println("Age: " + age);
         System.out.println("Height: " + height);
         System.out.println("Is Student: " + isStudent);
+        System.out.println("weight :"+ weight);
     }
 }
